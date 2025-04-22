@@ -4,13 +4,26 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+🤖 SynoTalk – AI Chatbot Mobile App
+SynoTalk is an AI-powered chatbot mobile application built using Flutter, designed to offer intelligent conversational experiences. It integrates Google Gemini API for natural language understanding and generation, and leverages Firebase Authentication for secure user login.
 
-A few resources to get you started if this is your first Flutter project:
+🔑 Features
+✨ AI Chatbot powered by Google Gemini API
+Communicate with a smart AI assistant capable of answering questions, assisting with tasks, and offering personalized responses.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 User Authentication using Firebase
+Supports secure Google Sign-In as well as Email/Password authentication to ensure user data is safe and sessions are properly managed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Cross-platform support
+Developed using Flutter, this app runs smoothly on both Android and iOS devices.
+
+🛠️ Technologies Used
+Flutter & Dart
+
+Firebase Authentication
+
+Google Gemini API (Generative AI)
+
+Provider (for state management, if used)
+
+VS Code (for complete development and testing)
