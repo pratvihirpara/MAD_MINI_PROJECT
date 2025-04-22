@@ -22,3 +22,14 @@ Google Gemini API (Generative AI)
 Provider (for state management, if used)
 
 VS Code (for complete development and testing)
+🧠 Future Enhancements
+Dark mode toggle
+
+Multilingual support
+
+Persistent chat history
+
+Voice-to-text input
+
+📄 License
+This project is licensed under the MIT License. Feel free to use and contribute!
