@@ -1,8 +1,3 @@
-# mobile_app
-
-A new Flutter project.
-
-## Getting Started
 
 🤖 SynoTalk – AI Chatbot Mobile App
 SynoTalk is an AI-powered chatbot mobile application built using Flutter, designed to offer intelligent conversational experiences. It integrates Google Gemini API for natural language understanding and generation, and leverages Firebase Authentication for secure user login.
